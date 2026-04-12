@@ -96,8 +96,6 @@ This project reflects an applied healthcare AI workflow that combines:
 - image preprocessing
 - deep learning for classification
 
-For professor outreach, it shows experience with a research-style workflow involving hypothesis generation, analysis, and model evaluation. For recruiters, it demonstrates practical work in healthcare ML, computer vision, and end-to-end project communication.
-
 ## What I Learned
 
 Through this project, I strengthened my understanding of:
